@@ -1,3 +1,4 @@
+<pre>
 A set of script to help bootstrap a development enviroment on local testnet.
 
 Folder structure
@@ -44,3 +45,4 @@ haveno-helper/
 |--monero/
 |--haveno/
 '--bitcoin/
+</pre>
