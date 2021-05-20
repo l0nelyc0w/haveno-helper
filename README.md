@@ -1,5 +1,8 @@
 <pre>
-A set of script to help bootstrap a development enviroment on local testnet.
+A set of scripts to help bootstrap a development enviroment on local testnet.
+start-all.sh creates a tmux session with 7 panes that run two monero nodes on
+local stagenet, bitcoin-qt on regetest and 4 haveno roles (seed, alice, bob,
+arbitrator)
 
 Folder structure
 
